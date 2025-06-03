@@ -26,7 +26,7 @@ Welcome to the **Travel Tracker App** — a clean and interactive way to track c
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/travel-tracker.git
+git clone https://github.com/Hitanshu078/Family-Travel-Tracker.git
 cd travel-tracker
 ```
 
